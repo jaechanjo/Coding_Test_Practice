@@ -17,6 +17,6 @@ If you have any questions, you can use [Issues](https://github.com/jaechanjo/Cod
 
 3. 주석: 문제 링크, 걸린 시간, 사용한 메모리 등
 
-    - ex) #문제링크: https://www.acmicpc.net/problem/1439
-    - ex) #걸린시간: 0.7s
-    - ex) #사용한 메모리: 50MB
+    - ex) #link: https://www.acmicpc.net/problem/1439
+    - ex) #time: 0.7s
+    - ex) #memory: 50MB
