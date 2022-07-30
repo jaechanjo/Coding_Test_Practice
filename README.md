@@ -15,8 +15,8 @@ If you have any questions, you can use [Issues](https://github.com/jaechanjo/Cod
 
 2. 파일 형식: .py(문제 당 1개)
 
-3. 주석: 문제 링크, 걸린 시간, 사용한 메모리 등
+3. 주석: 문제 링크, 사용한 메모리, 걸린 시간 등
 
     - ex) #link: https://www.acmicpc.net/problem/1439
-    - ex) #time: 0.7s
-    - ex) #memory: 50MB
+    - ex) #memory: 30840KB
+    - ex) #time: 76ms
