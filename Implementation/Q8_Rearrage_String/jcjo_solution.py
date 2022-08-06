@@ -40,20 +40,20 @@ result
 # 답안 복습 - char.isdigit()/ char.isalpha() - 아스키 코드 중 숫자에 해당하는 구간인지 문자에 해당하는 구간인지 판별해주는 메서드
 #           - ''.join(list): 리스트를 문자열을 한 번에 이어주는 메서드
 
-result = []
-value = 0
+# result = []
+# value = 0
 
-for s in data2:
+# for s in data2:
     
-    if s.isdigit():
-        value += int(s)
-    else:
-        result.append(s)
+#     if s.isdigit():
+#         value += int(s)
+#     else:
+#         result.append(s)
         
-result.sort()
+# result.sort()
 
-if value != 0:
-    result.append(str(value))
+# if value != 0:
+#     result.append(str(value))
     
-print(''.join(result))
+# print(''.join(result))
 
