@@ -1,14 +1,16 @@
 #!/usr/bin/env python
 # coding: utf-8
+# %%
+#jcjo_solution
 
-# In[27]:
+# %%
 
 
 food_times = [3, 1, 2] #음식 섭취 남은 시간
 k = 5 #5초 후에 네트워크 장애
 
 
-# In[28]:
+# %%
 
 
 """
@@ -47,13 +49,13 @@ def solution(food_times, k):
     return result[(k - sum_eat_time) % length][1]
 
 
-# In[29]:
+# %%
 
 
 solution(food_times, k)
 
 
-# In[24]:
+# %%
 
 
 # 2th-fail
@@ -80,7 +82,7 @@ solution(food_times, k)
 # result
 
 
-# In[10]:
+# %%
 
 
 # 1st-fail
@@ -102,7 +104,7 @@ solution(food_times, k)
 #     return food_times, i
 
 
-# In[11]:
+# %%
 
 
 # def solution(food_times, k):

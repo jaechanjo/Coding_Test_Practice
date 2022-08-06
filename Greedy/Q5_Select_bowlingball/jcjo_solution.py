@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
+# %%
+#jcjo_solution
 
-# In[48]:
+# %%
 
 
 n = 5
@@ -9,7 +11,7 @@ m = 3
 bball = [1, 3, 2, 3, 2]
 
 
-# In[52]:
+# %%
 
 
 n = 8
@@ -17,19 +19,19 @@ m = 5
 bball = [1, 5, 4, 3, 2, 4, 5, 2]
 
 
-# In[53]:
+# %%
 
 
 from itertools import combinations
 
 
-# In[54]:
+# %%
 
 
 len([i for i in combinations(bball, 2) if i[0] != i[1]])
 
 
-# In[55]:
+# %%
 
 
 """
@@ -54,7 +56,7 @@ result
 #처음 뽑은 것과도 다르되, 이전 선택과도 달라야 한다. 예를 들어 1 - 2,3/ 2 - 3/ 3 - None(조합)
 
 
-# In[ ]:
+# %%
 
 
 """

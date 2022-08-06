@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
+# %%
+#jcjo_solution
 
-# In[ ]:
+# %%
 
 
 #link: https://www.acmicpc.net/problem/18406
@@ -9,14 +11,14 @@
 #time: 76ms
 
 
-# In[2]:
+# %%
 
 
 n = '123402'
 n2 = '7755'
 
 
-# In[16]:
+# %%
 
 
 med = int(len(n) / 2) #항상 짝수 개 자릿수의 n이므로 그냥 나누기만 해도 괜찮다.

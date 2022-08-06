@@ -1,14 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[33]:
-
+# %%
+#jcjo_solution
 
 data = 'K1KA5CB7'
 data2 = 'AJKDLSI412K4JSJ9D'
 
 
-# In[34]:
+# %%
 
 
 num_set = {str(n) for n in range(10)} #숫자가 0~9까지 검증용 집합
@@ -35,7 +34,7 @@ for r in str_sorted: #최종적으로 다 붙여주자.
 result
 
 
-# In[38]:
+# %%
 
 
 # 답안 복습 - char.isdigit()/ char.isalpha() - 아스키 코드 중 숫자에 해당하는 구간인지 문자에 해당하는 구간인지 판별해주는 메서드
